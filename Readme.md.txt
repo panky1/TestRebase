@@ -9,3 +9,5 @@ testing 2nd step of rebase
 continously testing rebase
 
 testing is perfect going on and identifying all steps
+
+added new line to check with last branch(feature2)
