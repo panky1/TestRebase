@@ -1,1 +1,1 @@
-Test rebase from master branch
+Test rebase from feature branch
