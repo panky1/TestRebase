@@ -9,3 +9,5 @@ testing 2nd step of rebase
 continously testing rebase
 
 Test rebase from feature branch
+
+added new line
