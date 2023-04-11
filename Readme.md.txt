@@ -11,3 +11,5 @@ continously testing rebase
 testing is perfect going on and identifying all steps
 
 Test rebase from feature branch
+
+added new line
