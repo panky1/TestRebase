@@ -1,3 +1,4 @@
+Test rebase from feature2 branch
 Test rebase from master branch
 
 add the new line for testing purpose
