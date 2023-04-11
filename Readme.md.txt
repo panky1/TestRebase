@@ -11,4 +11,4 @@ continously testing rebase
 
 testing is perfect going on and identifying all steps
 
-Test rebase from feature2 branch
+added new line to check with last branch(feature2)
